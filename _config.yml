@@ -5,7 +5,7 @@
 # Site
 title: Ojors‘ Cookie Can
 subtitle: 这十年来做过的事，能令你无悔骄傲吗？
-description: Test
+description: 技术，摄影，生活
 keywords: Ojors的知识橱柜
 author: Ojors
 language: zh-CN
@@ -86,7 +86,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-fluid-1.6.4
+theme: hexo-theme-fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
